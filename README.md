@@ -35,14 +35,16 @@ The model includes:
 
 
 ### Structural plates and cylinder
-<img width="718" height="340" alt="image" src="https://github.com/user-attachments/assets/505e5d4e-17da-4346-9417-ac9215558686" />
+<img width="656" height="306" alt="image" src="https://github.com/user-attachments/assets/defc9609-687a-4a57-b2d9-45baef30dbef" />
+
 
 
 ### Final structural assembly
-![assembly](images/final_subassembly.png)
+<img width="718" height="340" alt="image" src="https://github.com/user-attachments/assets/505e5d4e-17da-4346-9417-ac9215558686" />
 
 ### Sheet metal panel
-![panel](images/sheet_panel.png)
+<img width="714" height="358" alt="image" src="https://github.com/user-attachments/assets/48caadb6-5979-47bd-9dfd-6106b6d8f94c" />
+
 
 ## Tools
 
