@@ -31,7 +31,8 @@ The model includes:
 ## Modelling Process
 
 ### Exploded assembly
-![assembly](images/assembly_exploded.png)
+<img width="714" height="690" alt="Asamble1" src="https://github.com/user-attachments/assets/d12941d0-45d1-41c4-a08f-02ad4a37ec77" />
+
 
 ### Structural plates and cylinder
 ![structure](images/plate_and_cylinder.png)
