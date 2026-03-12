@@ -35,7 +35,8 @@ The model includes:
 
 
 ### Structural plates and cylinder
-![structure](images/plate_and_cylinder.png)
+<img width="718" height="340" alt="image" src="https://github.com/user-attachments/assets/505e5d4e-17da-4346-9417-ac9215558686" />
+
 
 ### Final structural assembly
 ![assembly](images/final_subassembly.png)
