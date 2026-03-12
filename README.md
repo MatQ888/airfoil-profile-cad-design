@@ -55,7 +55,3 @@ The model includes:
 ## Authors
 
 Matías Emanuel Quesada Quezada  
-Jorge Martínez  
-Alberto Rojo  
-
-Universidad Politécnica de Madrid
