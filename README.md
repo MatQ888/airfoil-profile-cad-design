@@ -1,27 +1,57 @@
-# Airfoil Profile CAD Design
+# Aircraft Sheet Metal Profile – CAD Design
 
-Design of an aerodynamic airfoil profile using AutoCAD for potential wind tunnel testing.
+CAD modelling and assembly of a sheet metal structural profile based on a technical drawing specification.
 
-## Description
+This academic project was developed as part of a welding and sheet metal manufacturing practice.
 
-This project consists of the complete design of an airfoil profile using CAD tools.
+## Project Description
 
-The geometry was created from scratch and prepared for aerodynamic analysis and experimental testing.
+The objective was to recreate a structural profile using CAD tools from a set of geometric parameters provided in the assignment.
 
-The work was completed independently in approximately two weeks while learning the software.
+Main parameters:
+
+- L1 = 1250 mm
+- L2 = 500 mm
+- L3 = 325 mm
+- L4 = 200 mm
+- R1 = 250 mm
+- R2 = 1200 mm
+- φ1 = 200 mm
+
+Material: Titanium
+
+The model includes:
+
+- structural side plates
+- cylindrical support
+- internal stiffeners
+- curved sheet metal panel
+- full assembly
+
+## Modelling Process
+
+### Exploded assembly
+![assembly](images/assembly_exploded.png)
+
+### Structural plates and cylinder
+![structure](images/plate_and_cylinder.png)
+
+### Final structural assembly
+![assembly](images/final_subassembly.png)
+
+### Sheet metal panel
+![panel](images/sheet_panel.png)
 
 ## Tools
 
-- AutoCAD
-- Geometric modelling
+- CAD modelling (AutoCAD / CATIA style workflow)
+- Technical drawing interpretation
+- Sheet metal assembly modelling
 
-## Skills developed
-
-- CAD modelling
-- Aerodynamic geometry understanding
-- Engineering design workflow
-
-## Author
+## Authors
 
 Matías Emanuel Quesada Quezada  
-Aerospace Engineering — Universidad Politécnica de Madrid
+Jorge Martínez  
+Alberto Rojo  
+
+Universidad Politécnica de Madrid
